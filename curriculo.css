@@ -1,0 +1,32 @@
+#div1{
+	background-color: #00CED1;
+	text-align:center;
+	height: 110px;
+}
+
+#div2{
+	text-align:center;	
+}
+
+
+
+.circle img{
+	height: 10%;
+	width: 10%;
+	background-color: #bbb;
+	border-radius: 50%;
+	display: inline-block;
+}
+
+hr.estilo1{
+	
+  border: 5px solid gray;
+  border-radius: 5px;
+  
+}
+
+#div3{
+	background-color: #00CED1;
+	text-align:center;
+	height: 110px;
+}
